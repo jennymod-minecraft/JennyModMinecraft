@@ -1,0 +1,4 @@
+USAGE Jenny-Mod-Minecraft
+jenny mod minecraft. Forge. bedrock.
+Extract. Run. See readme.
+Stamp rev-r4ni5p-20261023
